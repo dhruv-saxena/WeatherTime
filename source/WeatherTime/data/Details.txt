@@ -1,0 +1,5 @@
+City,Bangalore
+Place,India
+ApiKey,1c44d615af869e2c
+Scale,3
+AppColor,Red
