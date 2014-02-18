@@ -12,7 +12,7 @@ Liscence -
 Please read the included Liscence.txt file.
 
 Important Note -
-The information below can become more clear by watching the video Processing Visualization and Desktop App section at http://dhruvsaxena.com/portfolios/weather-time/
+The information below can become more clear by watching the video under Processing Visualization and Desktop App section at http://dhruvsaxena.com/portfolios/weathertime/
 
 API key
 The application needs a special api key from wunderground.com.
